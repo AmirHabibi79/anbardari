@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anbardari/static/css/main.7f53308c.css",
+    "main.js": "/anbardari/static/js/main.8cef518c.js",
+    "index.html": "/anbardari/index.html",
+    "main.7f53308c.css.map": "/anbardari/static/css/main.7f53308c.css.map",
+    "main.8cef518c.js.map": "/anbardari/static/js/main.8cef518c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f53308c.css",
+    "static/js/main.8cef518c.js"
+  ]
+}
