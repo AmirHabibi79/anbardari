@@ -1,0 +1,9 @@
+[*] make a sheet that has width and height of screen
+[*] add rows once user reachs the end by dragging
+[*] increase number by dragging
+[*] read excel file
+[*] add data from file to sheet
+[*] add rows and colunms if it has less than the height and width of screen
+[*] search and filter
+[*] change title to name of the file
+[*] get name of the file when exporting if the name is untitled
